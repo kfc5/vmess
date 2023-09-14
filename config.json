@@ -18,9 +18,6 @@
 				"network": "ws",
 				"wsSettings": {
 					"path": "VMESS_WSPATH"
-					"headers": {
-						"Host": "VMESS_WSHOST"
-					}
 				}
 			}
 		},
